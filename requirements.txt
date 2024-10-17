@@ -1,6 +1,5 @@
-streamlit>=1.0
-joblib>=1.0
+streamlit
+pandas
+joblib
 Pillow
-# Add other dependencies as necessary
-scikit-learn>=1.0
-
+scikit-learn
